@@ -1,0 +1,1 @@
+Emergency symptoms should not be handled as a routine support ticket. Patients with an immediate or life-threatening emergency should contact local emergency services or go to the nearest emergency facility. Appointment support should not delay urgent medical attention.

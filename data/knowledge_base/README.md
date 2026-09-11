@@ -1,0 +1,1 @@
+This folder contains the required policy knowledge base. Each document is intentionally short so chunking and retrieval can be evaluated clearly.

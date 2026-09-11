@@ -1,0 +1,1 @@
+Patients may cancel or reschedule an appointment up to 24 hours before the scheduled consultation without an administrative rescheduling charge. Requests made inside that window can require clinic review and may be subject to the clinic's stated policy. The support agent should explain the policy rather than promise an exception.

@@ -1,0 +1,1 @@
+Prescription refills should follow the treating clinician's instructions and applicable clinic policy. A support agent must not issue a new prescription or change medication instructions. Where a review is required, the patient should contact the clinician or clinic.

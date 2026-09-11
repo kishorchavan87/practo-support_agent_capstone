@@ -1,0 +1,1 @@
+Appointments can be booked through the Practo-style support channel using the available clinic and specialty information. Patients should provide the requested appointment details and verify the selected time before confirmation. A confirmed booking is treated as the patient's selected slot until it is cancelled or rescheduled under policy.

@@ -1,0 +1,1 @@
+Home visits are available only for participating clinicians and eligible appointment types or locations. Availability can vary by area and schedule. Patients should confirm home-visit eligibility before relying on it for care.

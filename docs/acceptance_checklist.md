@@ -1,0 +1,24 @@
+# Acceptance checklist
+
+- [ ] ≥40 deterministic records
+- [ ] all five categories and statuses
+- [ ] follow-up percentage 10–30%
+- [ ] 12 required KB topics
+- [ ] fixed-overlap + sentence chunks
+- [ ] separate Chroma collections
+- [ ] empirically calibrate similarity threshold and record values in README
+- [ ] ≥5 in-scope + 1 out-of-scope grounded generation tests
+- [ ] precision/recall with per-query arithmetic for both collections
+- [ ] escalation formula + dataset distribution justification
+- [ ] 3-agent CrewAI topology and `.kickoff()` transcript
+- [ ] LangChain session memory + fresh-session transcript
+- [ ] Pydantic response validation
+- [ ] PII + injection + output groundedness demonstrations
+- [ ] FastAPI 2 HTTP endpoints + WebSocket
+- [ ] JSONL trace/timing logging with masked request text
+- [ ] 15-query evaluation with Accuracy/Grounding/Completeness/Safety
+- [ ] AutoGen RoundRobinGroupChat with approval and revision
+- [ ] least-autonomy lookup restriction
+- [ ] risk classification
+- [ ] runtime budget rejection
+- [ ] cache hit evidence

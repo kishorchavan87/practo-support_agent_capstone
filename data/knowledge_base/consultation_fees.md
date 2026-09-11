@@ -1,0 +1,1 @@
+Consultation fees vary by specialty and clinic. For this demonstration knowledge base, General Medicine is INR 700–1200, Cardiology INR 1200–2200, Dermatology INR 900–1800, Pediatrics INR 800–1500, and Orthopedics INR 1000–2000. The exact fee should be confirmed from the appointment record or clinic listing when available.

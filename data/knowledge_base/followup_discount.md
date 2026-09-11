@@ -1,0 +1,1 @@
+A follow-up discount may apply when the appointment is eligible under the clinic's follow-up policy. Eligibility depends on the specialty, timing, and clinic rules. The support agent should state the policy conditions and avoid guaranteeing a discount without checking the relevant record.

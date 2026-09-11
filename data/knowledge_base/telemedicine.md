@@ -1,0 +1,1 @@
+Telemedicine is appropriate when the selected clinician and consultation type support remote care. Some complaints require an in-person examination and should not be forced into a remote appointment. The support agent can explain eligibility but cannot provide a clinical diagnosis.

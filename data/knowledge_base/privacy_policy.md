@@ -1,0 +1,1 @@
+Patient information should be handled only for the purpose required to provide support and should not be unnecessarily exposed. Fixed-format contact numbers are masked before processing and logging in this demonstration. Fabricated patient examples should be used for testing.

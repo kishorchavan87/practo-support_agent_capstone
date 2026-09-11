@@ -1,0 +1,1 @@
+For an insurance claim, the patient should retain the invoice and relevant consultation documents and submit them through the insurer's prescribed process. Claim approval is controlled by the insurer and policy terms. Support can explain the general documentation flow but cannot guarantee reimbursement.

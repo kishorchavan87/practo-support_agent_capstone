@@ -1,0 +1,1 @@
+Laboratory turnaround time depends on the test and the processing laboratory. Routine tests may be available sooner than specialized tests. Patients should use the laboratory's stated expected turnaround and contact the laboratory for delays rather than relying on an unsupported promise.

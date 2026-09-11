@@ -1,0 +1,1 @@
+Patients may seek a second opinion from another qualified clinician. Support can help explain the process for arranging another consultation and what records the patient may need to provide. The second clinician makes an independent clinical assessment.
