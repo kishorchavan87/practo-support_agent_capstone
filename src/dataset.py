@@ -29,8 +29,9 @@ def generate_appointments():
             days_since_created=rng.randint(0, 30),
             follow_up_required=rng.random() < 0.20,
         ))
+    records = [asdict(x) for x in records]
     validate(records)
-    return [asdict(x) for x in records]
+    return records
 
 def validate(records):
     cc = Counter(x["category"] for x in records)
